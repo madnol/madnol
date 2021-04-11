@@ -1,6 +1,6 @@
 
 
-# Hey there, I'm Manuel 👋 👨🏻‍💻
+# Ahoy matey! I'm Manuel 👋 👨🏻‍💻
 
 <p align='left'>
   <a href="mailto:desole.manuel@gmail.com?subjetc=Hi, from Git Hub" target="_blank">
@@ -12,7 +12,7 @@
   
 </p>
 
-## 💻  MERN stack developer formed at strive school 💻
+## MERN stack developer formed at strive school
 
 In the words of Abraham Lincoln:
 
