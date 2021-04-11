@@ -21,7 +21,7 @@
 <img src = 'https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white' />
 <img src = 'https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black' /> 
 <img src = 'https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white'/> 
-<img src = 'https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white'/> 
+<img src = 'https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white'/> 
 <img src = 'https://img.shields.io/badge/CSS%20-%23F37626.svg?&style=for-the-badge&logo=CSS&logoColor=white'/>
 <img src = 'https://img.shields.io/badge/html%20-%23150458.svg?&style=for-the-badge&logo=html&logoColor=white'/>
 <img src = 'https://img.shields.io/badge/typescript%20-%23013243.svg?&style=for-the-badge&logo=typescript&logoColor=white'/>  
