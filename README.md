@@ -12,7 +12,7 @@
   
 </p>
 
-💻 ## MERN stack developer formed at strive school 💻
+## 💻  MERN stack developer formed at strive school 💻
 
 In the words of Abraham Lincoln:
 
