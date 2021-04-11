@@ -18,7 +18,8 @@
 ## MERN stack developer and enthusiast learner formed at strive school
 
 ## I am currently: 
-- Working on my [Video-chat ](https://github.com/madnol/new-client).
+- 🎥 Working on my [Video-chat ](https://github.com/madnol/new-client).
+- 🏗️ Building my portfolio
 
 ## My stack
 <p align = 'left'>
