@@ -1,9 +1,8 @@
 
 
-# Ahoy matey! 🏴‍☠️
+# Ahoy matey! welcome on my boat 🏴‍☠️
 
  I'm Manuel, 🙋‍♂️
-
 
 
 ## MERN stack developer and enthusiast learner formed at strive school
@@ -28,6 +27,8 @@
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 </p>
 
+## My Hobby/Habits:
+-
 
 ## get in touch! 👇
 <p align='left'>
