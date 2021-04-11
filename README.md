@@ -15,12 +15,12 @@
 </p>
 
 
-## MERN stack developer formed at strive school
+## MERN stack developer and enthusiast learner formed at strive school
 
-
+## I am currently: 
+Working on my [Video-chat ](https://github.com/madnol/new-client).
 
 ## My stack
-
 <p align = 'left'>
 <img src = 'https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white' />
 <img src = 'https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black' /> 
@@ -34,6 +34,7 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 </p>
+
 
 
 
