@@ -34,8 +34,6 @@
 
 ## MERN stack developer formed at strive school
 
-In the words of Abraham Lincoln:
 
-> Pardon my French
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madnol)](https://github.com/anuraghazra/github-readme-stats)
