@@ -20,6 +20,7 @@
 ## I am currently: 
 - 🎥 Working on my [Video-chat ](https://github.com/madnol/new-client).
 - 🏗️ Building my portfolio
+- 🔍 Looking for knowledge
 
 ## My stack
 <p align = 'left'>
