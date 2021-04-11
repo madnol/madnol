@@ -28,7 +28,10 @@
 </p>
 
 ## My Hobby/Habits:
--
+- 🚴‍♂️ cycling
+- 🧘 meditate
+- 💪 working out
+- 🧑‍💻 coding
 
 ## get in touch! 👇
 <p align='left'>
