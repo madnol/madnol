@@ -7,11 +7,6 @@
 
 ## MERN stack developer and enthusiast learner formed at strive school
 
-## I am currently: 
-- 🎥 Working on my [Video-chat ](https://github.com/madnol/new-client).
-- 🏗️ Building my portfolio
-- 🔍 Looking for knowledge
-
 ## My stack
 <p align = 'left'>
 <img src = 'https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white' />
