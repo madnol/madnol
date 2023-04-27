@@ -23,7 +23,6 @@
 </p>
 
 ## My Hobby/Habits:
-- 🚴‍♂️ cycling
 - 🧘 meditate
 - 💪 working out
 - 🧑‍💻 coding
